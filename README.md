@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mischmaschine&style=flat-square" alt="Mischmaschine" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mischmaschine&style=flat-square" alt="Mischmaschine" /> </p>
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Mischmaschine&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues&bg_color=00000000">
