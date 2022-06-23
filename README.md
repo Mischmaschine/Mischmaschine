@@ -9,3 +9,4 @@
   <br>
 </p>
 
+ [![](https://activity-graph.herokuapp.com/graph?username=Mischmaschine&theme=react-dark)](https://github.com/Mischmaschine/github-readme-activity-graph)
