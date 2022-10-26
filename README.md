@@ -9,4 +9,4 @@
   <br>
 </p>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Mischmaschine&theme=react-dark" alt="Mischmaschine" /> </p>
+<!--<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Mischmaschine&theme=react-dark" alt="Mischmaschine" /> </p>-->
